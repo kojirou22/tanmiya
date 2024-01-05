@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo.png')}}" alt="Tanmiya logo" class="h-16">
